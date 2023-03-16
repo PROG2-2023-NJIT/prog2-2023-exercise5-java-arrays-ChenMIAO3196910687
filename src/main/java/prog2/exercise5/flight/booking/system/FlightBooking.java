@@ -6,7 +6,7 @@ import java.util.Randomp;
  * Hello world!
  *
  */
-public class App 
+public class App  
 {
  
     String flightCompany;
